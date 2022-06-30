@@ -4,7 +4,7 @@
 - Propriétaire du dépôt
 - Un collaborateur
 
-1. Le propriétaire du dépôt crée un dépôt distant depuis Github et invite son collaborateur à participer au projet en tant que membre (1 dépôt distant par binôme)
+1. Le propriétaire du dépôt crée un dépôt distant depuis GitHub et invite son collaborateur à participer au projet en tant que membre (1 dépôt distant par binôme)
 
 2. Le propriétaire crées un fichier `technos.md` qui contient le contenu suivant:
 
@@ -26,9 +26,9 @@ Par exemple :
 7. Commitez et envoyez vos modifications sur la branche correspondante sur GitHub
 avec l'exemple précédent, le propriétaire envoie ses modifications sur la branche `feature/owner-technos` et le collaborateur sur la branche `feature/contributor-technos`
 
-8. Chacun récupère le travail de l'autre depuis Github
+8. Chacun récupère le travail de l'autre depuis GitHub
 
-9. Fusionnez le travail de votre binôme avec votre travail et resolvez les conflits
+9. Fusionnez le travail de votre binôme avec votre travail et résolvez les conflits
 
 10. Envoyez vos modifications en ligne sur votre branche (votre branche ne doit pas contenir de conflit)
 
