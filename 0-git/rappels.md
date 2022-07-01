@@ -25,7 +25,7 @@ Par convention l'alias se nomme origin
 Exemple pour le renommage de la branche master en main :
 - `git branch -m master main`
 6. Créer une branche (on ne peut pas créer une nouvelle branche tant qu'il n'y a pas au moins un commit sur le dépôt) :
-- `git branch -b newBranch`
+- `git branch newBranch`
 7. Se déplacer dans une branche pour y travailler :
 - `git checkout newBranch`
 8. Créer et se déplacer dans la nouvelle branche pour y travailler sur une nouvelle version du projet :
