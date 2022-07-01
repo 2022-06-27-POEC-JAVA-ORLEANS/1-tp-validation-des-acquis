@@ -5,7 +5,7 @@
 1. Configuration minimale : nom, prénom et adresse e-mail.
 A faire une seule fois, puis à nouveau lors de la mise à jour des informations précédentes)
 - `git config –global user.name ‘Glodie Tshimini’`
-- `git config –global user.name ‘contact@tshimini.fr’`
+- `git config –global user.email ‘contact@tshimini.fr’`
 
 ## Initialisation d'un dépôt git et lien avec un dépôt distant
 
